@@ -130,6 +130,26 @@ nav a:hover{
     color: #cfd6ea;
 }
 
+/* image frame in main body */ 
+.images{
+    text-align: left;
+    float: left;
+}
+
+.images figure{
+    display: inline-block;
+    margin: 15px;
+}
+
+figcaption{
+    margin-top: 10px;
+    font-style: italic;
+}
+
+img{
+   width: 100%;
+}
+
 /* space between header and footer */            
 section:after{
     content:"";
