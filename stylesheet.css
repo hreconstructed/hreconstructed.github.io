@@ -130,7 +130,7 @@ nav a:hover{
     color: #cfd6ea;
 }
 
-nav .active{
+nav a.active{
     color:#cfd6ea;
 }
 
